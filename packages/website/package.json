@@ -43,7 +43,7 @@
     "eslint-config-next": "13.4.12",
     "framer-motion": "^10.12.17",
     "graphql-tag": "^2.12.6",
-    "isomorphic-git": "^1.24.5",
+    "isomorphic-git": "^1.25.0",
     "just-entries": "^2.3.0",
     "lodash": "^4.17.21",
     "next": "^13.4.19",
