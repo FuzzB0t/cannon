@@ -30,7 +30,7 @@
     "chai": "4.3.6",
     "dotenv": "16.0.1",
     "ethers": "5.7.1",
-    "hardhat": "^2.12.6",
+    "hardhat": "^2.19.1",
     "hardhat-cannon": "^2.4.21",
     "hardhat-contract-sizer": "^2.7.0",
     "hardhat-gas-reporter": "^1.0.9",
