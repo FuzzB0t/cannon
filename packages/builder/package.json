@@ -40,8 +40,8 @@
     "ethers": ">=5.6.0 < 6.0.0"
   },
   "dependencies": {
-    "@synthetixio/router": "^3.3.0",
-    "axios": "^1.6.2",
+    "@synthetixio/router": "^3.3.2",
+    "axios": "^1.6.7",
     "buffer": "^6.0.3",
     "debug": "^4.3.4",
     "form-data": "^4.0.0",
