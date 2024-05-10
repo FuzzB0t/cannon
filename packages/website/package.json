@@ -48,7 +48,7 @@
     "json-schema-to-typescript": "^13.1.1",
     "just-entries": "^2.3.0",
     "lodash": "^4.17.21",
-    "next": "^13.4.19",
+    "next": "^14.1.1",
     "pako": "^2.1.0",
     "react": "18.2.0",
     "react-diff-view": "^3.1.0",
